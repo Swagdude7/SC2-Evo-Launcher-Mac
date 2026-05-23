@@ -1,4 +1,4 @@
-# SC2 Campaign Launcher - Mac Port
+# SC Evo Launcher - Mac Port
 
 An unofficial Mac port of Team Koprulu's SC Evo Complete Campaign Launcher.
 
