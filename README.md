@@ -32,4 +32,6 @@ An unofficial Mac port of Team Koprulu's SC Evo Complete Campaign Launcher.
 ## Credits
 Original launcher by Team Koprulu - https://github.com/TeamKoprulu/SCEvoComplete
 
+Official Website - [scevo.org](https://www.scevo.org)
+
 Mac port by Swagdude7
