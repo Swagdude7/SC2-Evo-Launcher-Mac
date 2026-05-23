@@ -18,7 +18,7 @@ An unofficial Mac port of Team Koprulu's SC Evo Complete Campaign Launcher.
 ## Troubleshooting
 **"App is damaged and can't be opened"**
 1. Open Terminal
-2. Navigate to where <em>SC Evo Launcer.app</em> is located
+2. Navigate to where <em>SC Evo Launcher.app</em> is located
   - For example: <code>cd /Applications</code>
 3. Run the following command: <code>xattr -cr SC\ Evo\ Launcher.app</code>
 4. Try running the application again
